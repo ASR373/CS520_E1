@@ -1,0 +1,18 @@
+You wrote the code below and it failed some tests.
+
+Your code:
+def max_product_pair(nums: list[int]) -> tuple[int, int]:
+    """
+    Return the pair of numbers in nums whose product is maximum.
+    """
+    if len(nums) < 2:
+        raise ValueError("Need at least two numbers")
+    nums = sorted(nums)
+    pair1 = (nums[0], nums[1])
+    pair2 = (nums[-1], nums[-2])
+    return pair1 if nums[0]*nums[1] > nums[-1]*nums[-2] else pair2
+
+Test failure output:
+Test a: expected (2, 3), got (3, 2)
+
+Diagnose the issue briefly and output ONLY the corrected function.

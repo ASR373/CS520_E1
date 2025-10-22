@@ -1,0 +1,5 @@
+You are writing Python to solve this task:
+
+Task: {PROBLEM_TEXT}
+
+Write only the function code. No extra text.

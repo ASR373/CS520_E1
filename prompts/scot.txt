@@ -1,0 +1,16 @@
+You are a careful Python programmer.
+Task: {PROBLEM_TEXT}
+
+Constraints:
+- Write a single Python function named EXACTLY as specified.
+- Do not include input() or print().
+- Handle edge cases explicitly.
+
+Stepwise plan:
+1. Restate task in your own words.
+2. Identify edge cases.
+3. Design an algorithm.
+4. Implement the code.
+5. Verify mentally.
+
+Now think step-by-step and output ONLY the final Python function.

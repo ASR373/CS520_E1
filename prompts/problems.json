@@ -1,0 +1,12 @@
+[
+  {"id": "HumanEval_0", "title": "Add two numbers", "text": "Write a function add(a, b) that returns the sum of a and b."},
+  {"id": "HumanEval_1", "title": "Is palindrome", "text": "Given a string s, return True if s is a palindrome, otherwise False."},
+  {"id": "HumanEval_2", "title": "Factorial", "text": "Write a function factorial(n) that returns n! for n >= 0."},
+  {"id": "HumanEval_3", "title": "Fibonacci", "text": "Write a function fib(n) that returns the nth Fibonacci number (0-indexed)."},
+  {"id": "HumanEval_4", "title": "Reverse words", "text": "Given a string, return the string with the words reversed, preserving spacing."},
+  {"id": "HumanEval_5", "title": "Sum of squares", "text": "Return the sum of squares of numbers in a list."},
+  {"id": "HumanEval_6", "title": "List flatten", "text": "Flatten a nested list into a single list of elements."},
+  {"id": "HumanEval_7", "title": "Count vowels", "text": "Count the vowels in a given string (case-insensitive)."},
+  {"id": "HumanEval_8", "title": "Find max pair", "text": "Return the pair of numbers in a list whose product is maximum."},
+  {"id": "HumanEval_9", "title": "Remove duplicates", "text": "Remove duplicates from a list while preserving order."}
+]

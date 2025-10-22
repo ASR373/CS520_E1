@@ -1,0 +1,7 @@
+family,strategy,total,passed,pass@1
+GPT5,SCoT,10,9,0.90
+CLAUDE,SCoT,10,9,0.90
+GPT5,SelfDebug,10,10,1.00
+CLAUDE,SelfDebug,10,10,1.00
+GPT5,ReflectiveRefine,10,10,1.00
+CLAUDE,ReflectiveRefine,10,10,1.00
