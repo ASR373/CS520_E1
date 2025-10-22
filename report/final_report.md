@@ -178,7 +178,7 @@ This prompt was saved as:
 ## Discussion
 
 ```text
-1️⃣ Comparative Performance Across Strategies
+Comparative Performance Across Strategies
 
 The experiments demonstrate that progressive prompt sophistication directly correlates with higher problem-solving accuracy in LLM code generation.
 Both GPT-5 and Claude 3.5 Sonnet showed strong baseline reasoning with Stepwise Chain-of-Thought (SCoT), achieving a respectable pass@1 = 0.90, which indicates reliable step-based logical decomposition. However, small but consistent failures appeared in problems that required post-reasoning verification — such as ensuring ordering, data type consistency, or boundary error handling.
@@ -201,7 +201,7 @@ Finally, the ReflectiveRefine strategy generalized the debugging improvement eve
 
 ---
 
-### 🔍 Analysis
+### Analysis
 
 | Aspect                 | SCoT                  | SelfDebug                     | ReflectiveRefine                              |
 |:------------------------|:----------------------|:-------------------------------|:----------------------------------------------|
