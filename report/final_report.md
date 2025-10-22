@@ -1,4 +1,4 @@
-# 🧠 LLM Code Generation Evaluation Report
+# LLM Code Generation Evaluation Report
  
 **Student:** Adith Sreeram Arjunan Sivakumar  
 **Date:** 10/22/2025
